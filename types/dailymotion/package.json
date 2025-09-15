@@ -1,7 +1,7 @@
 {
-	"name": "@prime-types/datalayer",
+	"name": "@prime-types/dailymotion",
 	"version": "1.0.0",
-	"description": "TypeScript types for DataLayer",
+	"description": "TypeScript types for Dailymotion",
 	"type": "module",
 	"exports": {
 		".": {
